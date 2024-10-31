@@ -6,5 +6,6 @@ format: html
 
 ```{r}
 usethis::use_git()
+"Initial commit"
 ```
 
